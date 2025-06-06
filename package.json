@@ -12,7 +12,10 @@
   "license": "ISC",
   "packageManager": "pnpm@9.4.0",
   "dependencies": {
+    "@linear/sdk": "^42.0.0",
+    "@modelcontextprotocol/sdk": "^1.12.0",
     "@vercel/mcp-adapter": "^0.4.1",
+    "dotenv": "^16.5.0",
     "zod": "^3.24.2"
   },
   "devDependencies": {
